@@ -1,4 +1,7 @@
-Live preview-https://mdsaif0427.github.io/Tic-Tac-Toe-Game-/
+
+
+
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen)](https://mdsaif0427.github.io/Tic-Tac-Toe-Game-/)
 
 # ❌⭕ Tic Tac Toe Game
 
